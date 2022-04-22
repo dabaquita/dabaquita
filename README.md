@@ -2,11 +2,11 @@ Hi 👋 My name is Denielle Abaquita
 ==================================  
 Incoming SWE @ Meta | iOS, Web 
 ------------------------------  
-* 🌍  I'm based in Florida 
-* ✉️  You can contact me at [denielle.abaquita@gmail.com](mailto:denielle.abaquita@gmail.com) 
-* 🚀  I'm currently working on [LoveTaps](http://love-taps.co) 
-* 🧠  I'm learning Next.js, GraphQL 
-* 🤝  I'm open to collaborating on iOS Applications
+* 🌍  Based in Florida 
+* ✉️  Contact me at [denielle.abaquita@gmail.com](mailto:denielle.abaquita@gmail.com) 
+* 🚀  Currently working on [LoveTaps](http://love-taps.co) 
+* 🧠  Learning Next.js, GraphQL 
+* 🤝  Open to collaborating on iOS Applications
 
 <a href="https://www.github.com/dabaquita" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/dabaquita?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
