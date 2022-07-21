@@ -2,7 +2,7 @@ Hi 👋 My name is Denielle Abaquita
 ==================================  
 Incoming SWE @ Meta | iOS, Web 
 ------------------------------  
-* 🌍  Based in Florida 
+* 🌍  Based in the Bay Area 
 * ✉️  Contact me at [denielle.abaquita@gmail.com](mailto:denielle.abaquita@gmail.com) 
 * 🚀  Currently working on [LoveTaps](http://love-taps.co) 
 * 🧠  Learning Next.js, GraphQL 
