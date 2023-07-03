@@ -1,6 +1,6 @@
 Hi 👋 My name is Denielle Abaquita 
 ==================================  
-Incoming SWE @ Meta | iOS, Web 
+Software Engineer @ Meta | iOS, Web 
 ------------------------------  
 * 🌍  Based in the Bay Area 
 * ✉️  Contact me at [denielle.abaquita@gmail.com](mailto:denielle.abaquita@gmail.com) 
