@@ -4,7 +4,7 @@ Software Engineer @ Meta | iOS, Web
 ------------------------------  
 * 🌍  Based in the Bay Area 
 * ✉️  Contact me at [denielle.abaquita@gmail.com](mailto:denielle.abaquita@gmail.com) 
-* 🚀  Currently working on [LoveTaps](http://love-taps.co) 
+* 🚀  Currently working on ??? ;)
 * 🧠  Learning Next.js, GraphQL 
 * 🤝  Open to collaborating on iOS Applications
 
