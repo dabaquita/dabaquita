@@ -1,6 +1,6 @@
 Hi 👋 My name is Denielle Abaquita 
 ==================================  
-Software Engineer @ Meta | iOS, Web 
+Cofounder & CTO of Plot | Prev. Meta/WhatsApp
 ------------------------------  
 * 🌍  Based in the Bay Area 
 * ✉️  Contact me at [denielle.abaquita@gmail.com](mailto:denielle.abaquita@gmail.com) 
