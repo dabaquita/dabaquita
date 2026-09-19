@@ -1,6 +1,6 @@
 Hi 👋 My name is Denielle Abaquita 
 ==================================  
-Cofounder & CTO of Plot | Prev. Meta/WhatsApp
+Cofounder & CTO of Ploti | Prev. Meta/WhatsApp
 ------------------------------  
 * 🌍  Based in the Bay Area 
 * ✉️  Contact me at [denielle.abaquita@gmail.com](mailto:denielle.abaquita@gmail.com) 
